@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-An end-to-end Machine Learning project that predicts house prices using the **King County House Sales Dataset**. The project covers the complete ML lifecycle—from data preprocessing and feature engineering to model training, evaluation, explainability with SHAP, and deployment through an interactive Streamlit dashboard.
+An end-to-end Machine Learning project that predicts house prices using the **King County House Sales Dataset**. The project covers the complete ML lifecycle—from data preprocessing and feature engineering to model training, evaluation, explainability with SHAP, and deployment through an interactive 
 
 
 
