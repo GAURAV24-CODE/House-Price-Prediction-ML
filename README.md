@@ -130,7 +130,7 @@ SHAP visualizations include:
 - SHAP Summary Plot
 - SHAP Feature Importance
 - SHAP Waterfall Plot
-- SHAP Dependence Plot
+
 
 ---
 
