@@ -25,7 +25,7 @@ This project aims to accurately predict house prices based on property character
 - View
 - Waterfront
 - Location
-- Construction Year
+- Construction 
 - Renovation Details
 - and many more...
 
